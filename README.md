@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/baula-batash/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Baula Batash](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/baula-batash/) |
+| **Get License** | [Commercial Licensing for Baula Batash](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/baula-batash/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> বুকের ভেতর বাউলা বাতাস আনমনা আজ গায়
+> খুঁজে ফিরে অচিন পাখি কোথায় সে হারায়
+> অন্ধকারে মেঘের আড়ালে খুঁজি আমি তোমায়
+> আমার এই পাগল পরাণ তোমাকেই যে চায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
