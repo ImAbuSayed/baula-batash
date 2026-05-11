@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/baula-batash/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Baula Batash](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/baula-batash/) |
+| **Get License** | [License this song: Baula Batash](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/baula-batash/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4780729e6e70235574fa410de244b7ac36f21c6f3e9d63ce957c7e04f0b5616a` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

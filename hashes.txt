@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Baula Batash
+
+This log tracks the cryptographic history and versioning for the song **Baula Batash** (baula-batash).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T10:49:13.348272 | `v1` | `4780729e6e70235574fa410de244b7ac36f21c6f3e9d63ce957c7e04f0b5616a` | `53748fff2cd50ff4da447684cb8f5fe976324a952fbe9ed9de482f5d7c6dd9b9` | `2026-05-11_baula-batash-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
